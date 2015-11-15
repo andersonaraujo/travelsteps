@@ -8,4 +8,3 @@ Business requirements are still not clear as the client (myselft) doesn't know e
 - Store text/photos/videos
 - Mark the place the text/photo/video was took (read from metadata)
 - Display the text/photos/videos in a map
-
